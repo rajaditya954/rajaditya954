@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aditya Raj (@yourusername)
+# 👋 Hi, I’m Aditya Raj (@rajaditya954)
 
 - 👀 I’m interested in Full Stack Web Development (MERN) and building scalable applications
 - 🌱 I’m currently focused on mastering backend architecture and enhancing my problem-solving skills through DSA.
