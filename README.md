@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on innovative web and AI-powered projects
 - 📫 How to reach me: araj44124@gmail.com | [LinkedIn](https://www.linkedin.com/in/aditya-raj-652a7a28b)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love building real-world projects and experimenting with APIs & backend systems
+- ⚡ Fun fact: I enjoys building things that people actually use!
 
 ---
 ## 🧑‍💻 About Me
